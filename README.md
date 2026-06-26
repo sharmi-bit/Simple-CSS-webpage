@@ -1,51 +1,32 @@
-🍽️ Royal Biryani Experience
+# 🍽️ Royal Biryani Experience
 
-A modern, responsive restaurant landing page built using HTML5 and CSS3 with smooth animations and elegant brown theme design.
+A modern and responsive restaurant landing page designed with **HTML5** and **CSS3**, featuring elegant animations, a luxurious brown-themed interface, and a seamless user experience.
 
-📌 Project Overview
+## ✨ Features
 
-Royal Biryani Experience is a single-page restaurant website designed to showcase:
+* 🍛 Elegant hero section with immersive background image
+* 🧭 Fixed glass-effect navigation bar
+* 🍽️ Interactive menu cards with hover animations
+* 📖 About section showcasing the restaurant
+* 📞 Contact section for customer inquiries
+* 🎨 Smooth scrolling and section transition effects
+* 📱 Fully responsive design for all devices
+* 🤎 Premium brown luxury theme with modern UI
 
-Hero section with background image
+## 🛠️ Technologies Used
 
-Attractive navigation bar
+* HTML5
+* CSS3
+* Google Fonts (Playfair Display & Poppins)
+* Flexbox
+* CSS Animations
 
-Menu cards with hover effects
+## 🚀 Highlights
 
-About section
+* Clean and elegant user interface
+* Mobile-friendly responsive layout
+* Smooth animations and hover effects
+* Beginner-friendly project structure
+* Perfect for showcasing frontend design skills
 
-Contact section
-
-Smooth scroll animation
-
-Fully responsive layout
-
-✨ Features
-
-✅ Fixed glass-effect navbar
-
-✅ Hero section with background overlay
-
-✅ Smooth hover animations
-
-✅ Animated section transitions
-
-✅ Modern card UI design
-
-✅ Fully responsive (Mobile friendly)
-
-✅ Brown luxury theme
-
-🛠️ Technologies Used
-
-HTML5
-
-CSS3
-
-Google Fonts (Playfair Display & Poppins)
-
-Flexbox
-
-CSS Animations
-
-Media Queries
+⭐ Feel free to fork, customize, and enhance this project!
